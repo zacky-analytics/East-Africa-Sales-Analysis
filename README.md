@@ -1,6 +1,8 @@
 # 🌍 East Africa Electronics: Strategic Sales Analysis (3.6B KSh)
 
 <img width="1200" height="700" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/ecbb9734-30ee-4a4c-8dfd-8407f136742a" />
+<img width="1000" height="600" alt="Code_Generated_Image (2)" src="https://github.com/user-attachments/assets/a0548b6b-8fd7-471b-8d5b-51827618de6b" />
+
 ### 📈 Executive Summary
 This project analyzes a dataset of **3.6 Billion KSh** in electronics sales across Kenya, Uganda, Tanzania, and Rwanda. The objective was to evaluate market performance, identify "Profit Stars," and provide data-driven recommendations for regional expansion.
 
