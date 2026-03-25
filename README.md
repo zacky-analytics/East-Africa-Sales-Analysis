@@ -19,4 +19,5 @@ This project analyzes a dataset of **3.6 Billion KSh** in electronics sales acro
 * **Feature Engineering:** Calculated `Profit Margin %` to distinguish between high-volume "Cash Cows" and high-efficiency "Stars."
 * **Visualizations:** Created revenue-vs-efficiency scatter plots to visualize product portfolio health.
 
----
+---<img width="1200" height="700" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/ecbb9734-30ee-4a4c-8dfd-8407f136742a" />
+
